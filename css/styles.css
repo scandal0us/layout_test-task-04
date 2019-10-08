@@ -105,7 +105,7 @@
 }
 .text-section__figures-container figure {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 .text-section__figures-container figure img {
   height: 44px;
@@ -127,6 +127,11 @@
 
   .site-header__nav-link {
     font-size: 14px;
+  }
+
+  .text-section__figures-container figcaption {
+    width: 100%;
+    margin-left: 0px;
   }
 }
 
